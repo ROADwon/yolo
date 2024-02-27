@@ -1,0 +1,6 @@
+train: ../train/imgs
+test : ../test/imgs
+valid : ../valid/imgs
+
+nc :
+names : []
